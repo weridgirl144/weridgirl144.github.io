@@ -8,21 +8,21 @@ body {
     color: rgb(84, 167, 84);
     margin: 0px;
     padding: 0px;
-    font-family:"Fredoka One", sans-serif;
+    font-family:"Fredoka On", sans-serif;
     width: 5px;
     text-shadow: 
     1px 1px 0px rgb(167, 113, 113),  /* Bottom-right shadow */
     -1px 1px 0px black, /* Bottom-left shadow */
     1px -1px 0px black, /* Top-right shadow */
     1px -1px 0px black; /* Top-left shadow */
-}
+}]=
 
 ul {
     margin: 0px;
 }
 
 body > header {
-    background-color: orange;
+    background-color: white;
     display: flex;
     height: 12vh;
     align-items: center;
