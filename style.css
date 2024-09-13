@@ -22,11 +22,11 @@ ul {
 }
 
 body > header {
-    background-color: white;
+    background-color: greenyellow;
     display: flex;
     height: 12vh;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 #nav-ul {
@@ -34,8 +34,8 @@ body > header {
 }
 
 #nav-ul > li {
-    padding: 8px;
-    margin: 16px;
+    padding: 10px;
+    margin: 15px;
 }
 
 
