@@ -45,11 +45,11 @@ body > header > nav > ul {
 }
 
 .navbutton{
-    color: white;
+    color: yellow;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
-    border-radius: 15%;
+    border: 1px solid rgb(240, 190, 98);
+    border-radius: 20%;
 }
 
 body > main article {
@@ -75,7 +75,7 @@ h2 {
 }
 
 body > footer {
-    background-color: orange;
+    background-color: green;
     display: flex;
 }
 
@@ -94,5 +94,5 @@ img {
 
 #footer-ul > div > li > a{
     text-decoration: none;
-    color: aliceblue;
+    color: yellow;
 }
